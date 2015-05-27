@@ -1,0 +1,58 @@
+Especificaciones para el proyecto
+
+Hacer una implementacion de los temas vistos en el curso con el modelo vista controlador y creando una GUI.
+
+El proyecto debera incluir las siguientes caracteristicas para cumplir con todos los aspectos de la evaluacion:
+
+-De manera muy generica tiene que ser "igual" a Twitter.
+
+-Los usuarios deberan estar insertados en un conjunto 'TreeSet' y este a su vez tendra que estar Serializado, para hacer mas eficiente en el tiempo de ejecucion.
+
+-Se debera poder agregar nuevos usuarios asi como tambien eliminarlos y buscarlos en el arbol.
+
+-Cada usuario debera poder realizar las siguientes actividades:
+	1)cambiar foto de perfil
+	2)Poder Seguir o no a un usuario
+	3)Poder hacer publicaciones, imagenes y/o texto. 
+	4)Contar con su propio perfil privado.
+	5)Poder crear hashtags
+	6)(opcional) poder enviar mensajes privados a otro usuario
+	7)Poder visualizar a que usuarios sigue y usuarios a los que no sigue
+	8)Contar con un nombre de usuario unico( esto queda implicito puesto que pertenecen a un conjunto)
+
+-De los twits:
+	1)Deben poder ser visibles en el muro general asi como en el muro personal
+	2)Deberan poder eliminarse
+	3)Estos podran ser solo texto, una imagen o ambos.
+	4)Poder visualizar los twits de los usuarios a los que sigo.
+
+-Se deberan visualizar las 5 tendencias en ese momento, asi como tambien los twits relacinados a ellas, las tendencias deberan pertenecer a una lista  (conjunto List)
+Especificaciones para el proyecto
+
+Hacer una implementacion de los temas vistos en el curso con el modelo vista controlador y creando una GUI.
+
+El proyecto debera incluir las siguientes caracteristicas para cumplir con todos los aspectos de la evaluacion:
+
+-De manera muy generica tiene que ser "igual" a Twitter.
+
+-Los usuarios deberan estar insertados en un conjunto 'TreeSet' y este a su vez tendra que estar Serializado, para hacer mas eficiente en el tiempo de ejecucion.
+
+-Se debera poder agregar nuevos usuarios asi como tambien eliminarlos y buscarlos en el arbol.
+
+-Cada usuario debera poder realizar las siguientes actividades:
+	1)cambiar foto de perfil
+	2)Poder Seguir o no a un usuario
+	3)Poder hacer publicaciones, imagenes y/o texto. 
+	4)Contar con su propio perfil privado.
+	5)Poder crear hashtags
+	6)(opcional) poder enviar mensajes privados a otro usuario
+	7)Poder visualizar a que usuarios sigue y usuarios a los que no sigue
+	8)Contar con un nombre de usuario unico( esto queda implicito puesto que pertenecen a un conjunto)
+
+-De los tweets:
+	1)Deben poder ser visibles en el muro general asi como en el muro personal
+	2)Deberan poder eliminarse
+	3)Estos podran ser solo texto, una imagen o ambos.
+	4)Poder visualizar los twits de los usuarios a los que sigo.
+
+-Se deberan visualizar las 5 tendencias en ese momento, asi como tambien los twits relacinados a ellas, las tendencias deberan pertenecer a una lista  (conjunto List)
